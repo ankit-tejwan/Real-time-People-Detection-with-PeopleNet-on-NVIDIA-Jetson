@@ -8,9 +8,15 @@ PeopleNet is a sophisticated deep learning model specifically designed for detec
 📌 What this code now does
 
 ✔ Loads PeopleNet
+
 ✔ Captures camera frames
+
 ✔ Detects people
+
 ✔ Prints each detection
+
 ✔ Draws boxes automatically (Detect() overlays them)
+
 ✔ Displays FPS
+
 ✔ Runs in one clean loop
